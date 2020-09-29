@@ -2,7 +2,7 @@
 // twitch.tv/kryszard
 // For Casual and EndGame Players
 //
-// Scop Edit V .15
+// Scop Edit V .16
 
 
 //Gold
