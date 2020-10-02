@@ -1,8 +1,8 @@
 // Kryszard's Loot Filter ver 2.1
 // twitch.tv/kryszard
 // For Casual and EndGame Players
-//
-// Scop Edit V .16.1
+// Scop Edit V .16.1 
+// +Ruby
 
 
 //Gold
@@ -82,7 +82,7 @@ ItemDisplay[(gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc)]:
 ItemDisplay[gzv]:
 ItemDisplay[glw]:
 ItemDisplay[glg]:
-ItemDisplay[glr]:
+ItemDisplay[glr]: %WHITE%Ruby %ORANGE%[%RED%O%ORANGE%]
 ItemDisplay[glb]:
 ItemDisplay[gly]:
 ItemDisplay[skl]: %WHITE%Skull %ORANGE%[%GRAY%O%ORANGE%]
